@@ -1,0 +1,4 @@
+ollama
+sentence-transformers
+pandas
+python-dotenv
